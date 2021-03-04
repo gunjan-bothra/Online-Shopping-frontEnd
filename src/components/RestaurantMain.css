@@ -1,0 +1,25 @@
+.uiBlock {
+    margin:auto;
+    width: 80%;
+}
+.filter {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.menu {
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+.menu > div {
+    display: inline-block;
+    /* float:left; */
+    padding: 10px;
+    overflow-x: visible;
+}
+a {
+    display: inline-block;
+    padding: 10px;
+    overflow-x: visible;
+    /* width:20px; */
+}

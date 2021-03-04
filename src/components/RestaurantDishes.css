@@ -1,0 +1,13 @@
+.dishesBody {
+    
+    margin:auto;
+    width: 80%;
+}
+.contentBorder {
+    border: 1px solid black;
+}
+.items {
+    display: flex;
+    border:  1px solid black;
+    border-top: 0;
+}

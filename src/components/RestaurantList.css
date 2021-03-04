@@ -1,0 +1,33 @@
+.Main-container {
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+}
+.contentFlex{
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+}
+.box {
+    border: 1px solid black;
+    padding: 2px;
+    border-radius: 2px;
+    margin:10px;
+}
+/* .image {
+    flex: 25%;
+    max-width: 25%;
+}
+.content {
+    flex: 75%;
+    max-width: 75%;
+} */
+.block {
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    width: 450px;
+}
+ul {
+    list-style-type: none;
+}
